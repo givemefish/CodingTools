@@ -44,6 +44,6 @@
 * AngularJS
   * [CheatSheet](https://angular.io/docs/js/latest/guide/cheatsheet.html)
 * Securities
-  * [Http Securities Best Practice]https://httpsecurityreport.com/best_practice.html
+  * [Http Securities Best Practice](https://httpsecurityreport.com/best_practice.html)
 * 趨勢統計
   * [友盟指數](http://www.umindex.com/)

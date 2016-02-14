@@ -20,6 +20,7 @@
   * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn): 在網頁端產生尺規
   * [PerfectPixcel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi): 允許把一個半透明的圖層疊加到當前網頁, 方便在修改CSS或像素時作比較
   * [Responsive Inspector](https://chrome.google.com/webstore/detail/responsive-inspector/memcdolmmnmnleeiodllgpibdjlkbpim): 允許查看目前網站的媒體查詢
+  * [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb): CSS選擇器
   * [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh): 插入Pesticide CSS到當前網頁, 以便清楚辨識元素位置和版型
   * [YSFlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh/related): Yahoo提供的網頁分析工具, 提供改進頁面性能的建議, 總結網頁頁面的組件, 顯示關於頁面的統計資訊
   * [BuildWith Technology Profile](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn): 找出目前網站是用什麼工具建構成的

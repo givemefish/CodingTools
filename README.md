@@ -12,7 +12,7 @@
   * NLog
   * Logstash (可配合ElasticSearch)
 
-## Chrome Extensions ##  
+## Chrome Extensions ##
 * Web Development
   * [Eye Droper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka/reviews): 協助從網頁, 取色器或個人歷史記錄中選取色彩
   * [Font Changer](https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke): 改變字體, 測試Google Font

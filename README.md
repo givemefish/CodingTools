@@ -1,8 +1,17 @@
 # CodingTools
 
 ## .Net ##
+* Coding
+  * AutoMapper: 自動生成物件到物件的代碼
+  * [PostSharp](https://www.postsharp.net/): 去除重複代碼和避免由於交叉引用產生的代碼冗餘
+  * 
 * DI
   * Autofac
+* Regex
+  * [Regex tester](https://visualstudiogallery.msdn.microsoft.com/16b9d664-d88c-460e-84a5-700ab40ba452): Regex擴展項
+  * [Expresso](http://www.ultrapico.com/expresso.htm): 桌面版的Regex工具
+* LINQ
+  * LINQ Pad: 測試Linq查詢
 * Unit Test
   * MSTest
   * xUnit
@@ -11,7 +20,16 @@
 * Log記錄
   * NLog
   * Logstash (可配合ElasticSearch)
-
+   
+## SQL ##
+* [SQLDumper](http://download.cnet.com/SQL-Dumper/3000-10254_4-10514574.html):根據DB Table Schema, 自動產生對應的新增和修改指令
+   
+## Tools ##
+* 文檔工具
+  * [GhostDoc](http://submain.com/products/ghostdoc.aspx): Visual Studio擴展項, 可自動生成方法或屬性的文檔註譯
+* 其他
+  * [Devart Codecompare](https://www.devart.com/codecompare/): 檔案比較與合併工具, 支持Visaul Studio. 整合code review
+  * [BugShooting](http://www.bugshooting.com/): 螢幕截圖工具, 可事後編輯、註譯、分享到其他軟體以便問題追踪
 ## Chrome Extensions ##
 * Web Development
   * [Eye Droper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka/reviews): 協助從網頁, 取色器或個人歷史記錄中選取色彩

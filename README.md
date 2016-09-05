@@ -5,6 +5,8 @@
   * AutoMapper: 自動生成物件到物件的代碼
   * [PostSharp](https://www.postsharp.net/): 去除重複代碼和避免由於交叉引用產生的代碼冗餘
   * 
+* .Net Core
+  * [Package Search](http://packagesearch.azurewebsites.net/)
 * DI
   * Autofac
 * Regex

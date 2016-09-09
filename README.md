@@ -69,8 +69,10 @@
 * CSS
   * [CSS Index](https://drafts.csswg.org/indexes/)
   * [CSS Tricks](https://css-tricks.com/)
-  * [CSS Triggers](http://csstriggers.com/)
-  * [CSS Layout Generator](http://csslayoutgenerator.com/)
+  * [CSS Triggers](http://csstriggers.com/)  * 
+  * [CSS Layout Generator](http://csslayoutgenerator.com/): 產生CSS Page Layout, 可指定Reset (Eric Meyer or Yahoo)
+  * [Little Boxes](http://www.thenoodleincident.com/tutorials/box_lesson/boxes.html): 簡潔易懂的CSS Page Layout產生器
+  
 * Javascript
   * [Javascripting](http://www.javascripting.com/)
   * [JQueryCards](http://jquerycards.com/)

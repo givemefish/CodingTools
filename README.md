@@ -70,6 +70,7 @@
   * [CSS Index](https://drafts.csswg.org/indexes/)
   * [CSS Tricks](https://css-tricks.com/)
   * [CSS Triggers](http://csstriggers.com/)
+  * [CSS Layout Generator](http://csslayoutgenerator.com/)
 * Javascript
   * [Javascripting](http://www.javascripting.com/)
   * [JQueryCards](http://jquerycards.com/)

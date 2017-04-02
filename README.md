@@ -19,6 +19,8 @@
   * xUnit
 * 工作排程
   * Quartz.NET
+* 壓力測試  
+  * ApacheBench
 * Log記錄
   * NLog
   * Logstash (可配合ElasticSearch)

@@ -24,6 +24,8 @@
 * Log記錄
   * NLog
   * Logstash (可配合ElasticSearch)
+* GeoLocation
+  * [GeoIP2](http://maxmind.github.io/GeoIP2-dotnet/)
    
 ## SQL ##
 * [SQLDumper](http://download.cnet.com/SQL-Dumper/3000-10254_4-10514574.html):根據DB Table Schema, 自動產生對應的新增和修改指令

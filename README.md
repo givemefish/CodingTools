@@ -4,7 +4,7 @@
 * Coding
   * AutoMapper: 自動生成物件到物件的代碼
   * [PostSharp](https://www.postsharp.net/): 去除重複代碼和避免由於交叉引用產生的代碼冗餘
-  * [Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput): 方便的Web API Cache套件, 可幫忙處理Server端和Client端(ETags)的Cache
+  * [Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput): 方便的Web API Cache套件, 可幫忙處理Server端和Client端(ETags)的Cache
 * .Net Core
   * [Package Search](http://packagesearch.azurewebsites.net/)
 * DI

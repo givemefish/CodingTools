@@ -52,6 +52,7 @@
   * [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp): 檢查自己的網站是否符合建議的最佳規範
   * [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel/reviews): Alexa提供的網站流量排名工具
   * [squoosh](https://squoosh.app/): 壓縮裁切圖片
+  * [FontSquirrel](https://www.fontsquirrel.com/): Free Font
   
 ## 前端 ##
 * CSS
